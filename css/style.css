@@ -1,0 +1,68 @@
+body {
+     background-color: black;
+     margin: 0;
+     padding: 0;
+    }
+
+
+.mainDiv {
+     height: 600px;
+     width: 600px;
+     background-color: rgb(100, 149, 237);
+     margin: 0 auto; 
+     font-size: 0;
+
+    }
+
+    .mainDiv > div {
+        display: inline-block;
+        height: 200px;
+        width: 200px;
+        margin: 0 auto;
+        border:1px solid black;
+        box-sizing: border-box;
+    }
+
+
+    .red {
+        background-color: red;
+    }
+
+
+    .yellow {
+        background-color: yellow;
+        border-radius: 50%;
+    }
+
+    .green {
+        background-color:green;
+    }
+
+    .red1 {
+        background-color: red;
+        border-radius: 50%;
+    }
+
+    .yellow1 {
+        background-color: yellow;
+    }
+
+    .green1 {
+        background-color: green;
+    }
+    
+    .red2 {
+        background-color: red;
+    }
+
+    .yellow2 {
+        background-color: yellow;
+    }
+
+    .green2 {
+        background-color: green;
+        border-radius: 50%;
+    }
+
+
+
